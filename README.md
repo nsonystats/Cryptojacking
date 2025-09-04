@@ -47,6 +47,8 @@ MAE was used as the primary evaluation metric.
  Poster Presentation: 
 
 A visual research poster was designed to summarize the dataset, modeling approach, and key takeaways.
+![crypto_poster](https://github.com/user-attachments/assets/98bb19df-9425-4ffd-bf2a-31412c3236e6)
+
 
  Key Takeaways: 
 - Regression Tree had the lowest MAE, offering better predictive accuracy
