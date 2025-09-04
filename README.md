@@ -38,6 +38,7 @@ Methodology
    - Focused on model interpretability and simplicity
 
 Results (Evaluation by MAE only)
+
 <img width="710" height="199" alt="Screenshot 2025-09-04 151301" src="https://github.com/user-attachments/assets/34995ad5-cba5-4b6d-82fe-40d647dceacd" />
 
 MAE was used as the primary evaluation metric. 
