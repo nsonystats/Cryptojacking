@@ -1,5 +1,4 @@
-Predictive Modeling with Lasso Regression and Regression Trees  
-		A Comparative Analysis on CPU Performance Metrics
+Predictive Modeling with Lasso Regression and Regression Trees - A Comparative Analysis on CPU Performance Metrics
 
 Author:  Nitika Sony  
 B.Sc. (H) Statistics | Amity University Kolkata  
@@ -39,15 +38,7 @@ Methodology
    - Focused on model interpretability and simplicity
 
 Results (Evaluation by MAE only)
-
-+------------------------+-----------------------+-------------------------------+
-| Metric                 | Lasso Regression      | Regression Tree               |
-+------------------------+-----------------------+-------------------------------+
-| MAE                    | 0.9208                | 1.077                         |
-| Interpretability       | Moderate              | High                          |
-| Dimensionality Use     | Optimal               | Acceptable                    |
-+------------------------+-----------------------+-------------------------------+
-
+<img width="710" height="199" alt="Screenshot 2025-09-04 151301" src="https://github.com/user-attachments/assets/34995ad5-cba5-4b6d-82fe-40d647dceacd" />
 
 MAE was used as the primary evaluation metric. 
 
